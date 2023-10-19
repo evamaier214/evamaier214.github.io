@@ -12,8 +12,8 @@
   "webcomponents": [
     {
       "kind": "main",
-      "tag": "com-sap-sample-echarts-bar-gradient-binding",
-      "url": "/main.js",
+      "tag": "testrund",
+      "url": "https://evamaier214.github.io/neu.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
